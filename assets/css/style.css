@@ -181,6 +181,15 @@ header {
     letter-spacing: 2px;
 }
 
+#success-message{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
